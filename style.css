@@ -1,0 +1,45 @@
+label {
+    color: blue;
+}
+
+input:focus {
+    background-color: aqua;
+}
+
+button:hover {
+    cursor: pointer;
+    background-color: aqua;
+}
+
+
+li:first-child {
+    font-weight: 700;
+}
+
+li:last-child {
+    font-style: italic;
+}
+
+div {
+text-align: center;
+width: 300px;
+height: 150px;
+background-color: aqua;
+}
+
+
+a:hover {
+    background-color: yellow;
+}
+
+
+.list-item:nth-child(odd) {
+    color: green;
+}
+
+.list-item:nth-child(even) {
+background-color: blue;
+}
+
+
+ 
